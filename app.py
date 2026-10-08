@@ -8,7 +8,7 @@ from pathlib import Path
 # ==========================================
 
 st.set_page_config(
-    page_title="AI Football Predictor",
+    page_title="INTELLIMATCH",
     page_icon="⚽",
     layout="wide"
 )
